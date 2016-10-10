@@ -1,0 +1,15 @@
+{
+  "env": {
+    "production": {
+      "plugins": [],
+      "presets": []
+    },
+    "development": {
+      "plugins": ["transform-class-properties", 
+                  "transform-es2015-destructuring", 
+                  "transform-async-to-generator"],
+      "presets": ["stage-0", "es2015", "es2017"]
+    }
+  },
+  "ignore": []
+}

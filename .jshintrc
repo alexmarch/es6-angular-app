@@ -1,0 +1,9 @@
+{
+  "esversion": 6,
+  "camelcase": true,
+  "curly": true,
+  "shadow": true,
+  "strict": false,
+  "browser": true,
+  "node": true
+}
